@@ -1,0 +1,18 @@
+.nav-link {
+    background-color: blueviolet;
+}
+
+.link {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+    margin: 1rem;
+} 
+
+.link.active {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: black;
+    font-size: 1.5rem;
+    margin: 1rem;
+} 
